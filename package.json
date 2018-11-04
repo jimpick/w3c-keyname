@@ -1,6 +1,6 @@
 {
   "name": "@jimpick/w3c-keyname",
-  "version": "2.1.0-1",
+  "version": "2.1.0-2",
   "description": "Get a KeyboardEvent.key-style string from an event",
   "main": "index.js",
   "repository": {
