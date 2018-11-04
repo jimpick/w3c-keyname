@@ -123,3 +123,8 @@ exports.keyName = function(event) {
   if (name == "Down") name = "ArrowDown"
   return name
 }
+
+export { exports.base as base }
+export { exports.shift as shift }
+export { exports.keyName as keyName }
+
